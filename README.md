@@ -24,7 +24,7 @@ Le programme exécute les instructions du fichier `src/index.ts` : il affiche la
 
 ## Questions
 
-Créer un commit après avoir implémenté chacun des étapes suivantes :
+Créer un commit après avoir implémenté chacune des étapes suivantes :
 
 1. [1 point] Annoter la valeur de retour de la fonction `getStatistics` pour indiquer qu'elle doit retourner un nombre.
 2. [1 point] Annoter la constante `persons` pour indiquer son type.
