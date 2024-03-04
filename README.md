@@ -2,6 +2,10 @@
 
 ## Mise en place
 
+### Duplication du projet
+
+Faire un fork du projet et le cloner sur votre ordinateur.
+
 ### Installation des dépendances
 
 ```
@@ -16,7 +20,7 @@ Exécuter le programme :
 npm run build && npm run start
 ```
 
-Le programme exécute les instructions du fichier `src/index.ts`, c'est à dire afficher la valeur de retour de la fonction `getStatistics` (initialement, `undefined`).
+Le programme exécute les instructions du fichier `src/index.ts` : il affiche la valeur de retour de la fonction `getStatistics` (initialement, `undefined`).
 
 ## Questions
 
