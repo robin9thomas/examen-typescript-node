@@ -4,7 +4,7 @@
 
 ### Duplication du projet
 
-Faire un fork du projet et le cloner sur votre ordinateur.
+Faire un fork public du projet et le cloner sur votre ordinateur.
 
 ### Installation des dépendances
 
@@ -38,3 +38,7 @@ Modifiez le fichier `persons.json` en renommant la propriété `height` en `tail
 7. [1 point] Modifier la fonction `getStatistics` pour qu'elle affiche un message d'erreur si les données du fichier `persons.json` ne sont pas correctement formées.
 
 _Aide : vous pourrez vérifier que le premier élément du tableau `persons` dispose des propriétés `age` et `height` avec la méthode `hasOwnProperty`._
+
+## Rendu
+
+Pousser votre travail sur votre dépôt GitHub et en copier l'URL dans ce formulaire : https://forms.gle/d2NYa8AXhpwqpURh6.
