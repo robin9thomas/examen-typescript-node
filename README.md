@@ -37,7 +37,7 @@ Modifiez le fichier `persons.json` en renommant la propriété `height` en `tail
 6. [1 point] Modifier l'annotation de typage de la constante `persons` pour couvrir tous les cas possibles.
 7. [1 point] Modifier la fonction `getStatistics` pour qu'elle affiche un message d'erreur si les données du fichier `persons.json` ne sont pas correctement formées.
 
-_Aide : vous pourrez vérifier que le premier élément du tableau `persons` dispose des propriétés `age` et `height` avec la méthode `hasOwnProperty`._
+_Aide : vous pourrez vérifier que le premier élément du tableau `persons` dispose des propriétés `age` et `height` avec la méthode `Object.hasOwn`._
 
 ## Rendu
 
