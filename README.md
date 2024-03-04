@@ -41,4 +41,4 @@ _Aide : vous pourrez vérifier que le premier élément du tableau `persons` dis
 
 ## Rendu
 
-Pousser votre travail sur votre dépôt GitHub et en copier l'URL dans ce formulaire : https://forms.gle/d2NYa8AXhpwqpURh6.
+Pousser votre travail sur votre dépôt GitHub et en indiquer l'URL dans ce formulaire : https://forms.gle/d2NYa8AXhpwqpURh6.
